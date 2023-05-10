@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    width: 47%;
+   !important width: 47%;
     text-align: center;
     margin: auto;
 }
