@@ -24,7 +24,7 @@ body {
 }
 
 h1 {
-    margin: 10px;
+    margin: 10px 0;
     font-size: 45px;
 }
 
@@ -70,4 +70,5 @@ h3 {
     border: 0px;
     border-radius: 5px;
     color: white;
+    margin-bottom: 50px;
 }
